@@ -1,5 +1,0 @@
-# Atualize a URL do Sitemap abaixo com o domínio final do site.
-User-agent: *
-Allow: /
-
-Sitemap: https://SEU-USUARIO.github.io/dias-locacoes/sitemap.xml
