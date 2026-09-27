@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-labelledby="t1 d1">
+  <title id="t1">Espaço reservado para foto de betoneira</title>
+  <desc id="d1">Substituir por uma foto real do equipamento da Dias Locações</desc>
+  <rect width="400" height="260" fill="#f2f1ed"/>
+  <rect x="4" y="4" width="392" height="252" fill="none" stroke="#d8d5cc" stroke-width="2" stroke-dasharray="8 6"/>
+  <circle cx="150" cy="150" r="55" fill="none" stroke="#2f4658" stroke-width="10"/>
+  <rect x="150" y="95" width="90" height="55" fill="#f2a900" transform="rotate(20 150 95)"/>
+  <rect x="60" y="185" width="220" height="14" fill="#2f4658"/>
+  <circle cx="90" cy="212" r="16" fill="#1e2223"/>
+  <circle cx="250" cy="212" r="16" fill="#1e2223"/>
+  <text x="200" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4a5052">Foto ilustrativa — substituir</text>
+</svg>
