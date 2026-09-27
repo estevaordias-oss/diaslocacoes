@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Atualize a tag <loc> de cada URL com o domínio final do site
+  (ex.: https://SEU-USUARIO.github.io/dias-locacoes ou seu domínio próprio)
+  assim que ele for definido, e ajuste <lastmod> quando publicar alterações.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://SEU-USUARIO.github.io/dias-locacoes/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://SEU-USUARIO.github.io/dias-locacoes/aluguel-de-betoneira/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://SEU-USUARIO.github.io/dias-locacoes/aluguel-de-andaimes/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://SEU-USUARIO.github.io/dias-locacoes/aluguel-de-escoras/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://SEU-USUARIO.github.io/dias-locacoes/aluguel-de-betoneira-rio-das-pedras/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://SEU-USUARIO.github.io/dias-locacoes/aluguel-de-andaimes-rio-das-pedras/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://SEU-USUARIO.github.io/dias-locacoes/aluguel-de-escoras-rio-das-pedras/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://SEU-USUARIO.github.io/dias-locacoes/contato/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://SEU-USUARIO.github.io/dias-locacoes/politica-de-privacidade/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+</urlset>
